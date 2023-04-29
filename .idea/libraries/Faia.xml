@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Faia">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Faia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
